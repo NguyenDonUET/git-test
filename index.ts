@@ -1,2 +1,2 @@
 console.log("main FEATURE")
-console.log(1)
+console.log(2)
