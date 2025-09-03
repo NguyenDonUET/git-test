@@ -1,1 +1,1 @@
-console.log("main log conflict")
+console.log("main log")
