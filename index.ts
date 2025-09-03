@@ -1,2 +1,1 @@
-console.log("main log")
-console.log("logout")
+console.log("main feature")
